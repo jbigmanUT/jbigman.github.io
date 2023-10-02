@@ -2,14 +2,15 @@
 title: Home
 layout: default
 ---
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XGE87C912V"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-        
-  gtag('config', 'G-XGE87C912V');
-</script>
+<head>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XGE87C912V"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-XGE87C912V');
+  </script>
+</head>
 <div id="twosided">
   <div id="left" style="float: left; max-width: 30%;border: 10px"> 
     <img src="images/myimage.jpg" />
