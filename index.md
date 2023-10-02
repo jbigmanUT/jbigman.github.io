@@ -28,3 +28,9 @@ layout: default
 I am a PhD student at the Oden Institute for Computational Engineering and Sciences at UT Austin with an anticipated graduation year of 2027. I am currently investigating numerical dispersion in B-Splines with my advisor Robert Moser. I previously received my Bachelor's in Mechanical Engineering and Physics with a Minor in Mathematics from Northeastern University.
 
 My research interests include computational fluid dynamics and multi-physics modeling.
+
+<footer>
+  <div id="left" style="float: left; max-width: 30%;border: 10px"> 
+    <img src="images/myfooter.jpg" />
+  </div>
+</footer>
